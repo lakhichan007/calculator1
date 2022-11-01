@@ -1,0 +1,33 @@
+#calculator-container{
+    height: 300px;
+    width: 400px;
+    margin: 100px auto;
+    background-color: aliceblue;
+    border-radius: 20px;
+    
+}
+h1{
+    margin-top: 25px;
+    text-align: center;
+}
+#display-box{
+margin-left: 85px;
+}
+#button-box{
+    margin-left: 85px;
+}
+button{
+    height: 40px;
+    width: 64px;
+    background-color: blue;
+    color: white;
+    border-radius: 4px;
+}
+#display{
+    height:36px;
+    width: 192px;
+    background-color: aquamarine;
+}
+button:hover{
+    background-color: cornflowerblue;
+}
